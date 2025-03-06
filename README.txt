@@ -1,4 +1,4 @@
-Prathima jagini Portfolio by HTML5 UP
+Uday Kiran Reddy Bommu Portfolio by HTML5 UP
 Link : https://prathima5.github.io/PORTFOLIO/ 
 Credits:
 
