@@ -1,5 +1,5 @@
 Uday Kiran Reddy Bommu Portfolio by HTML5 UP
-Link : https://prathima5.github.io/PORTFOLIO/ 
+Link : https://udayreddy-bommu.github.io/Portfolio/
 Credits:
 
 	Icons:
